@@ -3,7 +3,7 @@ SPA and Micro Front-End Demos
 
 Great! Let's create a Single Page Application (SPA) demo based on the Day One content from your uploaded presentation, focusing on setting up a basic SPA with micro front-ends using Webpack 5. This demo will cover the key concepts of Single-SPA, Micro Front-Ends, and the structure of a modern web application.
 
-### **SPA Demo Setup Based on Day One Content**
+### **SPA Demo Setup**
 
 #### **Objective:**
 The goal of this demo is to create a simple Single Page Application (SPA) using Micro Front-Ends architecture. We'll use Single-SPA to manage multiple front-end microservices, enabling independent development, deployment, and scaling of individual components. This will provide a practical example of the concepts covered in Day One.
