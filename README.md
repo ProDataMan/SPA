@@ -1,14 +1,12 @@
 # SPA
 SPA and Micro Front-End Demos
 
-Great! Let's create a Single Page Application (SPA) demo based on the Day One content from your uploaded presentation, focusing on setting up a basic SPA with micro front-ends using Webpack 5. This demo will cover the key concepts of Single-SPA, Micro Front-Ends, and the structure of a modern web application.
+Single Page Application (SPA) demo, focusing on setting up a basic SPA with micro front-ends using Webpack 5. This demo will cover the key concepts of Single-SPA, Micro Front-Ends, and the structure of a modern web application.
 
 ### **SPA Demo Setup**
 
 #### **Objective:**
-The goal of this demo is to create a simple Single Page Application (SPA) using Micro Front-Ends architecture. We'll use Single-SPA to manage multiple front-end microservices, enabling independent development, deployment, and scaling of individual components. This will provide a practical example of the concepts covered in Day One.
-
-#### **Step-by-Step Instructions**
+The goal of this demo is to create a simple Single Page Application (SPA) using Micro Front-Ends architecture. We'll use Single-SPA to manage multiple front-end microservices, enabling independent development, deployment, and scaling of individual components.
 
 ##### **Step 1: Set Up Your Project Directory**
 
@@ -248,6 +246,4 @@ The goal of this demo is to create a simple Single Page Application (SPA) using 
 
 ### **Conclusion**
 
-By following these steps, you've set up a basic Single Page Application (SPA) with Micro Front-Ends using Single-SPA, React, and Webpack 5. This structure allows each micro front-end to be independently developed and deployed, which is aligned with the microservices architecture discussed in your Day One content.
-
-If you want to expand on this demo, consider adding more interactive elements, routing between pages, or integrating more complex state management. If you need further assistance or have any questions, feel free to ask!
+By following these steps, you've set up a basic Single Page Application (SPA) with Micro Front-Ends using Single-SPA, React, and Webpack 5. This structure allows each micro front-end to be independently developed and deployed.
